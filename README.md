@@ -1,6 +1,7 @@
 Hey, in class Solution you can find aswers for these tasks: 
 
 Exercise 1 
+
 Write a function: 
  class Solution {public int solution(int N);} 
 that, given an integer N, returns the number of distinct digits that occur in the decimal representation of N 
@@ -15,7 +16,9 @@ Add code:
 class Solution{ 
  public int solution(int N){ } 
 } 
+
 Exercise 2
+
 Compute number of integers divisible by k in range [a..b]. 
 Write a function: 
 class Solution { public int solution(int A, int B, int K); } 
@@ -30,7 +33,10 @@ K is an integer within the range [1..2,000,000,000];
 A ≤ B. 
 Complexity: 
 expected worst-case time complexity is O(1); 
- expected worst-case space complexity is O(1). Exercise 3 
+ expected worst-case space complexity is O(1). 
+ 
+ Exercise 3 
+ 
 SQL
 Consider the following physical data model: 
 
